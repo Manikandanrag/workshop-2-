@@ -2,7 +2,10 @@
 
 ## Name : R.Manikandan
 ## Reg.no: 212223230120
-## Building an AI Classifier: Identifying Cats, Dogs & Pandas with PyTorch
+## Binary Classification with Neural Networks on the Census Income Dataset
+## Aim:
+This project builds a binary classification model using PyTorch to predict whether an individual earns more than $50,000 annually based on demographic data from the Census Income dataset.
+## Code:
 ```
 import pandas as pd
 import numpy as np
